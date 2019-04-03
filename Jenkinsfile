@@ -1,4 +1,4 @@
-pipline{
+pipeline{
 
 agent{
 image 'maven:3-alpine'
